@@ -15,4 +15,4 @@ oleh Beta Uliansyah <beta.uliansyah@pknstan.ac.id>
 Masukan atas kesalahan dalam buku ini dapat disampaikan melalui email ke alamat [beta.uliansyah@pknstan.ac.id](mailto:beta.uliansyah@pknstan.ac.id).
 
 ## Credits
-Web ini menggunakan template [Edition]([url](https://github.com/CloudCannon/edition-jekyll-template)).
+Web ini menggunakan template [Edition](https://github.com/CloudCannon/edition-jekyll-template).
